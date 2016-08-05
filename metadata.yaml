@@ -1,0 +1,24 @@
+_repo: The-Belgian-Cookbook_7223
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Luck, Brian, Mrs.
+    alias: Luck, Mrs. Brian
+    gutenberg_agent_id: '41289'
+    url: http://www.gutenberg.org/2009/agents/41289
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, Belgian'
+- GITenberg
+title: The Belgian Cookbook
+url: http://www.gutenberg.org/ebooks/7223
